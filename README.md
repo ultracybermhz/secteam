@@ -1,2 +1,0 @@
-# secteam
-codingfun
